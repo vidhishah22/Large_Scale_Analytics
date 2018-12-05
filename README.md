@@ -40,43 +40,57 @@ Go to your terminal and run the following command:
 $ pip install matplotlib
 
 - Seaborn
+
 Go to your terminal and run the following command:
 $ pip install seaboard
+
 - Plotly
+
 Go to your terminal and run the following command:
 $ pip install plotly 
 or 
 $ sudo pip install plotly 
+
 - SkLearn
+
 Go to your terminal and run the following command:
 $ pip install -U scikit-learn
+
 - Graphviz
+
 Go to your terminal and run the following command:
 $ pip install graphviz
+
 - Pydotplus
+
 Go to your terminal and run the following command:
  $ pip install pydotplus
+ 
 - Warnings
+
  Go to your terminal and run the following command:
  $ pip install warnings-plugin
- 
+ 
  2. Run
-  
- After done with all the installations, launch Jupyter Notebook. It will run on local server at localhost:8888. To work on notebook you have to follow the following steps :
+ 
+After done with all the installations, launch Jupyter Notebook. It will run on local server at localhost:8888. To work on notebook you have to follow the following steps :
 - Open "ML_Model_Patterns_Traffic_Accidents.ipynb"
 - Click on Kernel from top menu on the notbook
 - Select "Restart and Run All"
 
  Notebook will run and display the run output for each cell. Here are some commands to run the Jupyter Notebook:
+ 
 - To run a particular cell - press Shift + Enter
 - To run the current cell and insert a new one below - press Alt + Enter
 - To run current cell and enters command mode - press Ctrl + Enter
 - To run the entire code - press ‘Run’ button
 - The ‘Cell’ menu has a number of menu items for running code in different ways.
 - Code is run in a separate process called the Kernel. The Kernel can be interrupted or restarted. You will get different options for this by clicking on the ‘Kernel’ button.
- 
- 3. Other Instructions for the Users:
- 
- a) When a notebook is opened, its “computational engine” (kernel) is automatically started. Closing the notebook browser tab, will not shut down the kernel, instead the kernel will keep running until it is explicitly shut down. To shut down a kernel, go to the associated notebook and click on menu File -> Close and Halt.
- b) When the kernel dies unexpectedly, you have to stop the kernel or have to select ‘Restart and Run all’ by clicking on the kernel button.
- c) User can navigate through the section of the notbook using "Table of Contents"
+
+3. Other Instructions for the Users:
+
+a) When a notebook is opened, its “computational engine” (kernel) is automatically started. Closing the notebook browser tab, will not shut down the kernel, instead the kernel will keep running until it is explicitly shut down. To shut down a kernel, go to the associated notebook and click on menu File -> Close and Halt.
+
+b) When the kernel dies unexpectedly, you have to stop the kernel or have to select ‘Restart and Run all’ by clicking on the kernel button.
+
+c) User can navigate through the section of the notbook using "Table of Contents"
