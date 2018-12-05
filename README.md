@@ -23,49 +23,49 @@ c) To install Jupyter Notebook on Mac for Python3:
 This will download the Jupyter Notebook on mac or if you have Anaconda already installed in your system then you can directly launch Notebook from there.
 
 (B) Secondly, you need to install some python libraries.
-•    Numpy 
+- Numpy 
 Go to your terminal and run the following command:
 $ pip3 install numpy
 If that gives you permission or IO errors try using sudo
 $ sudo pip3 install numpy
-•   Matplotlib   
+- Matplotlib   
 Go to your terminal and run the following command:
 $ pip install matplotlib
-•   Seaborn
+- Seaborn
 Go to your terminal and run the following command:
 $ pip install seaboard
-•   Plotly
+- Plotly
 Go to your terminal and run the following command:
 $ pip install plotly 
 or 
 $ sudo pip install plotly 
-•   SkLearn
+- SkLearn
 Go to your terminal and run the following command:
 $ pip install -U scikit-learn
-•   Graphviz
+- Graphviz
 Go to your terminal and run the following command:
 $ pip install graphviz
-•   Pydotplus
+- Pydotplus
 Go to your terminal and run the following command:
  $ pip install pydotplus
- •   Warnings
+- Warnings
  Go to your terminal and run the following command:
  $ pip install warnings-plugin
  
  2. Run
   
  After done with all the installations, launch Jupyter Notebook. It will run on local server at localhost:8888. To work on notebook you have to follow the following steps :
- - Open "ML_Model_Patterns_Traffic_Accidents.ipynb"
- - Click on Kernel from top menu on the notbook
- - Select "Restart and Run All"
+- Open "ML_Model_Patterns_Traffic_Accidents.ipynb"
+- Click on Kernel from top menu on the notbook
+- Select "Restart and Run All"
 
  Notebook will run and display the run output for each cell. Here are some commands to run the Jupyter Notebook:
- ▪   To run a particular cell - press Shift + Enter
- ▪   To run the current cell and insert a new one below - press Alt + Enter
- ▪   To run current cell and enters command mode - press Ctrl + Enter
- ▪   To run the entire code - press ‘Run’ button
- ▪   The ‘Cell’ menu has a number of menu items for running code in different ways.
- ▪   Code is run in a separate process called the Kernel. The Kernel can be interrupted or restarted. You will get different options for this by clicking on the ‘Kernel’ button.
+- To run a particular cell - press Shift + Enter
+- To run the current cell and insert a new one below - press Alt + Enter
+- To run current cell and enters command mode - press Ctrl + Enter
+- To run the entire code - press ‘Run’ button
+- The ‘Cell’ menu has a number of menu items for running code in different ways.
+- Code is run in a separate process called the Kernel. The Kernel can be interrupted or restarted. You will get different options for this by clicking on the ‘Kernel’ button.
  
  3. Other Instructions for the Users:
  
