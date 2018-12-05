@@ -8,29 +8,37 @@ Machine Learning Model for Patterns Involved in Traffic Accidents
 Our project uses some machine-learning models to predict the severity of fatality that occurred during traffic accidents. From this the patterns involved in dangerous crashes could be detected. These patterns can then be useful in the providing the recommendations and improving traffic safety control policies across the United States. The motivation behind the development of such a prediction model has a direct connection to our routine life where in we travel daily from our home to various destinations and whenever there is a crash or a road accident we think that of safety measures that could have been taken to avoid it.
 
 1. Set Up
+
 (A) For this project, firstly, you have to install Python, Anaconda and Jupyter Notebook on your system.
+
 a) To install Python on Mac:
 - Install Homebrew
 - On terminal run the command: $ brew install python3
 This will download and install the latest version of python
+
 b) To install Anaconda on Mac:
 - Go to https://www.anaconda.com/download/#macos
 - Choose the python version for which you want to download
 - Double-click the downloaded file and click continue to start the installation.
+
 c) To install Jupyter Notebook on Mac for Python3:
 - $ python3 -m pip install --upgrade pip
 - $ python3 -m pip install jupyter
 This will download the Jupyter Notebook on mac or if you have Anaconda already installed in your system then you can directly launch Notebook from there.
 
 (B) Secondly, you need to install some python libraries.
-- Numpy 
+- Numpy
+
 Go to your terminal and run the following command:
 $ pip3 install numpy
 If that gives you permission or IO errors try using sudo
 $ sudo pip3 install numpy
+
 - Matplotlib   
+
 Go to your terminal and run the following command:
 $ pip install matplotlib
+
 - Seaborn
 Go to your terminal and run the following command:
 $ pip install seaboard
